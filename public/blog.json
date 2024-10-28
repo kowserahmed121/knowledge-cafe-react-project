@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://www.ibm.com/blog/wp-content/uploads/2023/03/code-brain.Original1-scaled.jpg",
+      "author": "https://i.ibb.co.com/JdyQGsy/profile.png",
+      "author_name": "John Doe",
+      "title": "Understanding RESTful APIs",
+      "reading_time": 5,
+      "hashtag": ["#API", "#REST", "#Backend"],
+      "post_date" : "25th may 2023"
+    },
+    {
+      "id": 2,
+      "cover_img":"https://i.ibb.co.com/bsbd2cn/a39b7bcf-6a0d-4635-8792-319ffa6250f0.jpg",
+      "author": "https://i.ibb.co.com/JdyQGsy/profile.png",
+      "author_name": "Jane Smith",
+      "title": "Introduction to Microservices Architecture",
+      "reading_time": 8,
+      "hashtag": ["#Microservices", "#Architecture", "#Cloud"],
+      "post_date" : "25th may 2023"
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/bsbd2cn/a39b7bcf-6a0d-4635-8792-319ffa6250f0.jpg",
+      "author": "https://i.ibb.co.com/JdyQGsy/profile.png",
+      "author_name": "Michael Lee",
+      "title": "Exploring GraphQL for Efficient Data Fetching",
+      "reading_time": 7,
+      "hashtag": ["#GraphQL", "#API", "#Data"],
+      "post_date" : "25th may 2023"
+    },
+    {
+      "id": 4,
+      "cover_img":"https://i.ibb.co.com/bsbd2cn/a39b7bcf-6a0d-4635-8792-319ffa6250f0.jpg",
+      "author": "https://i.ibb.co.com/JdyQGsy/profile.png",
+      "author_name": "Sarah Brown",
+      "title": "Mastering Docker for DevOps",
+      "reading_time": 10,
+      "hashtag": ["#Docker", "#DevOps", "#Containers"],
+      "post_date" : "25th may 2023"
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co.com/bsbd2cn/a39b7bcf-6a0d-4635-8792-319ffa6250f0.jpg",
+      "author": "https://i.ibb.co.com/JdyQGsy/profile.png",
+      "author_name": "Tom Wilson",
+      "title": "Best Practices in API Security",
+      "reading_time": 6,
+      "hashtag": ["#API", "#Security", "#BestPractices"],
+      "post_date" : "25th may 2023"
+    },
+    {
+      "id": 6,
+      "cover_img": "https://i.ibb.co.com/bsbd2cn/a39b7bcf-6a0d-4635-8792-319ffa6250f0.jpg",
+      "author": "https://i.ibb.co.com/JdyQGsy/profile.png",
+      "author_name": "Emily Davis",
+      "title": "Understanding CI/CD for Modern Development",
+      "reading_time": 9,
+      "hashtag": ["#CICD", "#DevOps", "#Automation"],
+      "post_date" : "25th may 2023"
+    }
+  ]
+  
